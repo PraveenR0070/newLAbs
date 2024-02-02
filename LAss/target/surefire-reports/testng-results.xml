@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-02T13:53:14 IST" name="Suite" finished-at="2024-02-02T13:54:32 IST" duration-ms="78096">
+    <groups>
+    </groups>
+    <test started-at="2024-02-02T13:53:14 IST" name="Test" finished-at="2024-02-02T13:53:53 IST" duration-ms="38445">
+      <class name="Swag.swagLabs.Tc_001">
+        <test-method is-config="true" signature="broswer_initil()[pri:0, instance:Swag.swagLabs.Tc_001@58e1d9d]" started-at="2024-02-02T13:53:14 IST" name="broswer_initil" finished-at="2024-02-02T13:53:14 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broswer_initil -->
+        <test-method is-config="true" signature="broswerintilize(java.lang.String)[pri:0, instance:Swag.swagLabs.Tc_001@58e1d9d]" started-at="2024-02-02T13:53:14 IST" name="broswerintilize" finished-at="2024-02-02T13:53:20 IST" duration-ms="6049" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broswerintilize -->
+        <test-method signature="RunTest()[pri:0, instance:Swag.swagLabs.Tc_001@58e1d9d]" started-at="2024-02-02T13:53:20 IST" name="RunTest" finished-at="2024-02-02T13:53:53 IST" duration-ms="32052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Swag.swagLabs.Tc_001@58e1d9d]" started-at="2024-02-02T13:53:53 IST" name="TearDown" finished-at="2024-02-02T13:53:53 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Swag.swagLabs.Tc_001 -->
+    </test> <!-- Test -->
+    <test started-at="2024-02-02T13:53:53 IST" name="Test1" finished-at="2024-02-02T13:54:32 IST" duration-ms="38901">
+      <class name="Swag.swagLabs.Tc_001">
+        <test-method is-config="true" signature="broswerintilize(java.lang.String)[pri:0, instance:Swag.swagLabs.Tc_001@1f9f6368]" started-at="2024-02-02T13:53:53 IST" name="broswerintilize" finished-at="2024-02-02T13:53:58 IST" duration-ms="4176" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broswerintilize -->
+        <test-method is-config="true" signature="broswer_initil()[pri:0, instance:Swag.swagLabs.Tc_001@1f9f6368]" started-at="2024-02-02T13:53:53 IST" name="broswer_initil" finished-at="2024-02-02T13:53:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broswer_initil -->
+        <test-method signature="RunTest()[pri:0, instance:Swag.swagLabs.Tc_001@1f9f6368]" started-at="2024-02-02T13:53:58 IST" name="RunTest" finished-at="2024-02-02T13:54:31 IST" duration-ms="33360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Swag.swagLabs.Tc_001@1f9f6368]" started-at="2024-02-02T13:54:31 IST" name="TearDown" finished-at="2024-02-02T13:54:32 IST" duration-ms="1359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Swag.swagLabs.Tc_001 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
